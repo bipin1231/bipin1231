@@ -1,4 +1,4 @@
-💡 About Me
+Hi,
 I’m a Computer Engineering graduate with a strong foundation in frontend and backend development. I’m passionate about building clean, responsive, and user-friendly applications — from React-based interfaces to Spring Boot APIs — that solve real-world problems.
 
 I enjoy learning new technologies and constantly improving my skills to write efficient, maintainable, and scalable code. I thrive in collaborative environments where I can share ideas, learn from others, and contribute to meaningful projects.
