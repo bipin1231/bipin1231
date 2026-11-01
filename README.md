@@ -1,12 +1,17 @@
  <div align="center">
 
-# Bipin
+```text
+██████╗ ██╗██████╗ ██╗███╗   ██╗
+██╔══██╗██║██╔══██╗██║████╗  ██║
+██████╔╝██║██████╔╝██║██╔██╗ ██║
+██╔══██╗██║██╔═══╝ ██║██║╚██╗██║
+██████╔╝██║██║     ██║██║ ╚████║
+╚═════╝ ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝
+```
 
-**Full-Stack Developer**
+**FULL-STACK DEVELOPER**
 
-Building things for the web. Interested in good interfaces, thoughtful engineering, and products that solve real problems.
-
-<br/>
+Building things for the web. Interested in thoughtful engineering, clean interfaces, and products that solve real problems.
 
 [GitHub](https://github.com/bipin1231) &nbsp; / &nbsp; [Repositories](https://github.com/bipin1231?tab=repositories)
 
@@ -22,10 +27,10 @@ Building things for the web. Interested in good interfaces, thoughtful engineeri
 
 I'm a full-stack developer who enjoys building modern web applications from idea to deployment. I work across frontend interfaces and backend systems, with an interest in clean architecture and great user experiences.
 
-### STACK
+### TECH STACK
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs,html,css,tailwind,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,nodejs,html,css,tailwind,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -41,15 +46,4 @@ I'm a full-stack developer who enjoys building modern web applications from idea
 <img src="https://streak-stats.demolab.com?user=bipin1231&theme=transparent&hide_border=true&ring=999999&fire=ffffff&currStreakLabel=999999&sideLabels=999999&dates=777777" width="100%" alt="Contribution streak"/>
 
 </div>
-
----
-
-### FIND ME
-
-[GitHub](https://github.com/bipin1231) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/)
-
-<div align="center">
-
-<sub>Made with curiosity and a lot of code.</sub>
-
 </div>
