@@ -1,91 +1,55 @@
  <div align="center">
 
-```
-██████╗ ██╗██████╗ ██╗███╗   ██╗
-██╔══██╗██║██╔══██╗██║████╗  ██║
-██████╔╝██║██████╔╝██║██╔██╗ ██║
-██╔══██╗██║██╔═══╝ ██║██║╚██╗██║
-██████╔╝██║██║     ██║██║ ╚████║
-╚═════╝ ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝
-```
+# Bipin
 
-**BIPIN / FULL-STACK DEVELOPER**
+**Full-Stack Developer**
 
-`Designing interfaces. Engineering systems. Building products.`
+Building things for the web. Interested in good interfaces, thoughtful engineering, and products that solve real problems.
 
-[ GITHUB ](https://github.com/bipin1231) · [ REPOSITORIES ](https://github.com/bipin1231?tab=repositories)
+<br/>
+
+[GitHub](https://github.com/bipin1231) &nbsp; / &nbsp; [Repositories](https://github.com/bipin1231?tab=repositories)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=999999&center=true&vCenter=true&width=420&lines=Frontend+%2F+Backend;Building+useful+things;Always+learning+something+new" alt="Currently building"/>
 
 </div>
 
 ---
 
-```bash
-$ cat /about
-```
+### ABOUT
 
-I build things for the web.
+I'm a full-stack developer who enjoys building modern web applications from idea to deployment. I work across frontend interfaces and backend systems, with an interest in clean architecture and great user experiences.
 
-Working across frontend and backend, I enjoy turning complex ideas into clean, functional products. From interactive interfaces to backend systems, I care about how things work just as much as how they look.
+### STACK
 
-Currently focused on building better products, exploring new technologies, and writing better code.
-
----
-
-```bash
-$ ls /toolkit
-```
-
-| AREA | TECHNOLOGIES |
-|---|---|
-| Frontend | Vue.js, Nuxt, JavaScript, TypeScript |
-| Backend | Node.js, REST APIs |
-| Styling | HTML, CSS, Tailwind CSS |
-| Tools | Git, GitHub, VS Code |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs,html,css,tailwind,mongodb,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-```bash
-$ ls /selected-work
-```
-
-**01 — PROJECTS**
-
-A selection of things I've built, explored, and experimented with.
-
-→ [Browse all repositories](https://github.com/bipin1231?tab=repositories)
-
-*More projects coming.*
-
----
-
-```bash
-$ git status
-```
-
-Currently building, experimenting, and improving.
-
-Interested in:
-- Full-stack product development
-- Modern web architecture
-- Creative web experiences
-- AI-powered development tools
-
----
+### CONTRIBUTIONS
 
 <div align="center">
 
-**GITHUB ACTIVITY**
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bipin1231&bg_color=000000&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin1231&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bipin1231&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true" width="70%" alt="GitHub statistics"/>
+<img src="https://streak-stats.demolab.com?user=bipin1231&theme=transparent&hide_border=true&ring=999999&fire=ffffff&currStreakLabel=999999&sideLabels=999999&dates=777777" width="100%" alt="Contribution streak"/>
 
-<br/><br/>
+</div>
 
-`BIPIN / 2026`
+---
 
-**END OF TRANSMISSION.**
+### FIND ME
+
+[GitHub](https://github.com/bipin1231) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/)
+
+<div align="center">
+
+<sub>Made with curiosity and a lot of code.</sub>
 
 </div>
