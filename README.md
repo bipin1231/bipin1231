@@ -30,7 +30,7 @@ I'm a full-stack developer who enjoys building modern web applications from idea
 ### TECH STACK
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,nodejs,html,css,tailwind,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,nodejs,html,css,tailwind,mongodb,git,github&theme=dark" />
 </p>
 
 ---
@@ -38,8 +38,6 @@ I'm a full-stack developer who enjoys building modern web applications from idea
 ### CONTRIBUTIONS
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bipin1231&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 <br/>
 
